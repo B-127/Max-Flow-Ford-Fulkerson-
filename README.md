@@ -12,7 +12,7 @@ matplotlib
 
 * [Python](https://www.python.org/) 
 
-## Authors
+## Author
 
 * **Tony Jesuthasan** - [B-127](https://github.com/B-127)
 
